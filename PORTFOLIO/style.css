@@ -292,15 +292,6 @@
     padding-bottom:70px;
     padding-top: 70px;
 }
-#qualities{
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    box-shadow: 0 0 80px rgb(220, 217, 217);
-    margin: 0px 130px 0px 130px;
-    
-}
 #qualities>ul{
     list-style: none;
     display: inline-flex;
